@@ -1,0 +1,12 @@
+id,name,head_staff_id,number_of_courses,number_of_students
+1,School of Informatics & IT,1,5,1200
+2,School of Applied Science,2,5,1300
+3,School of Business,3,8,1500
+4,School of Design,4,6,1100
+5,School of Engineering,5,10,1600
+6,School of Humanities & Social Sciences,6,7,1400
+7,Human Resources,7,0,0
+8,Finance,8,0,0
+9,IT Support,9,0,0
+10,Administration,10,0,0
+11,Public Relations,11,0,0
